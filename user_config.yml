@@ -1,0 +1,18 @@
+token: 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
+
+dataset: 'https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv'
+
+plot_config:
+  title: Iris flower analysis
+  xlabel: Sepal Lenth
+  ylabel : Sepal Width
+
+#this is a comment
+
+columns:
+- lenth
+- width
+
+
+
+

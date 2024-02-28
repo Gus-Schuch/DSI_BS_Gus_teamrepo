@@ -1,0 +1,4 @@
+# The repositories features that can be analised are (Watchers_Qty, Size_in_Bytes , Forks_Qty, Open_Issues_Qty)
+selected_feature: Size_in_Bytes # select one of the features listed above!
+
+selected_number_lines: 10 # Max 99 Repo lines 
