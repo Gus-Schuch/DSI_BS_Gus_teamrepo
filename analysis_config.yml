@@ -2,3 +2,5 @@
 selected_feature: Size_in_Bytes # select one of the features listed above!
 
 selected_number_lines: 10 # Max 99 Repo lines 
+
+title_analisys: Top 100 Most Popular Git Repos Analisys
