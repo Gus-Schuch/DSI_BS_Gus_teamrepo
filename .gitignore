@@ -1,0 +1,13 @@
+Log_analysis.log
+__pycache__/
+jpy_analysis.ipynb
+jpy_config.ipynb
+load_config.py
+old_system_config.yml
+old_user_config.yml
+*.xlsx
+*.png
+secrets.yml
+test_Analisys_module.py
+teste final/
+teste/

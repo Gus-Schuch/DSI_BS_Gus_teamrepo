@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "Analysis"
+authors = [
+    {name = "Luiz Gustavo Schuch", email = "hgschuch@gmail.com"},
+]
+description = "A very basic Python package"
+version = "0.1.0"
+dependencies = ["matplotlib", "yaml", "requests", "pandas", "logging"]
+requires-python = ">=3.11.0"
+readme = "README.md"
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+]
+
+[project.scripts]
+

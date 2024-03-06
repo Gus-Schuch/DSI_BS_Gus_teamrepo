@@ -1,0 +1,6 @@
+# The repositories features that can be analised are (Watchers_Qty, Size_in_Bytes , Forks_Qty, Open_Issues_Qty)
+selected_feature: Watchers_Qty # select one of the features listed above!
+
+selected_number_lines: 15 # Max 99 Repo lines 
+
+title_analisys: Top 100 Most Popular Git Repos Analisys
